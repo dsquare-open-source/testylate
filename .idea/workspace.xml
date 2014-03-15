@@ -1,21 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3e449c57-9795-4e3d-a439-dcbe76a5ffbd" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testylate-unit-test/src/be/dsquare/UsingExpectManagedEvent.as" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testylate-unit-test/src/be/dsquare/util/ModelEvent.as" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testylate-unit-test/src/TestSuite.as" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testylate-unit-test/src/be/dsquare/UsingExpectObserver.as" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testylate-unit-test/libs/flexunit-4.1.0-34-flex_3.5.0.12683.swc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testylate-unit-test/src/TestRunner.mxml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testylate-unit-test/src/be/dsquare/util/Model.as" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/libs/flexunit-4.1.0-33-flex_3.5.0.12683.swc" afterPath="$PROJECT_DIR$/testylate/libs/flexunit-4.1.0-34-flex_3.5.0.12683.swc" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/be/dsquare/util/MetadataUtil.as" afterPath="$PROJECT_DIR$/testylate/src/be/dsquare/util/MetadataUtil.as" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/be/dsquare/expectObserver.as" afterPath="$PROJECT_DIR$/testylate/src/be/dsquare/expectObserver.as" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/be/dsquare/dto/Metadata.as" afterPath="$PROJECT_DIR$/testylate/src/be/dsquare/dto/Metadata.as" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/libs/hamcrest-as3-flex-1.2.1.swc" afterPath="$PROJECT_DIR$/testylate/libs/hamcrest-as3-flex-1.2.1.swc" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/.idea/flexCompiler.xml" afterPath="$PROJECT_DIR$/testylate/.idea/flexCompiler.xml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/be/dsquare/expectManagedEvent.as" afterPath="$PROJECT_DIR$/testylate/src/be/dsquare/expectManagedEvent.as" />
+    <list default="true" id="3e449c57-9795-4e3d-a439-dcbe76a5ffbd" name="Default" comment="Setting up testing&#10;">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gitignore" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="testylate.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -79,10 +68,10 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="UsingExpectObserver.as" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/testylate-unit-test/src/be/dsquare/UsingExpectObserver.as">
+      <file leaf-file-name=".gitignore" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="12" column="24" selection-start="252" selection-end="252" vertical-scroll-proportion="0.2547684" vertical-offset="0" max-vertical-offset="734">
+            <state line="3" column="22" selection-start="19" selection-end="19" vertical-scroll-proportion="0.06948229" vertical-offset="0" max-vertical-offset="734">
               <folding />
             </state>
           </provider>
@@ -112,6 +101,7 @@
         <option value="$PROJECT_DIR$/testylate/src/be/dsquare/expectObserver.as" />
         <option value="$PROJECT_DIR$/testylate-unit-test/src/be/dsquare/util/Model.as" />
         <option value="$PROJECT_DIR$/testylate-unit-test/src/be/dsquare/UsingExpectObserver.as" />
+        <option value="$PROJECT_DIR$/.gitignore" />
       </list>
     </option>
   </component>
@@ -121,7 +111,7 @@
     <option name="width" value="1276" />
     <option name="height" value="778" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <OptionsSetting value="true" id="Add" />
     <OptionsSetting value="true" id="Remove" />
     <OptionsSetting value="true" id="Checkout" />
@@ -154,104 +144,6 @@
             <PATH_ELEMENT>
               <option name="myItemId" value="testylate" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="testylate" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="testylate-unit-test" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="testylate" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="testylate-unit-test" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="testylate" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="testylate-unit-test" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="dsquare" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="testylate" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="testylate-unit-test" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="libs" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="testylate" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="testylate" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="dsquare" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="testylate" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="testylate" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="libs" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="testylate" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="testylate" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
@@ -568,7 +460,7 @@
       <updated>1394826245431</updated>
       <workItem from="1394826246784" duration="1455000" />
       <workItem from="1394875864832" duration="5466000" />
-      <workItem from="1394885952842" duration="1480000" />
+      <workItem from="1394885952842" duration="1764000" />
     </task>
     <task id="LOCAL-00001" summary="Initial commit. &#10;expectManagedEvent and expectManagedEvent functions.">
       <created>1394877615511</created>
@@ -578,7 +470,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8401000" />
+    <option name="totallyTimeSpent" value="8685000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="4" y="22" width="1276" height="778" extended-state="0" />
@@ -756,6 +648,13 @@
     <entry file="file://$PROJECT_DIR$/testylate-unit-test/src/be/dsquare/UsingExpectObserver.as">
       <provider selected="true" editor-type-id="text-editor">
         <state line="12" column="24" selection-start="252" selection-end="252" vertical-scroll-proportion="0.2547684" vertical-offset="0" max-vertical-offset="734">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="3" column="22" selection-start="19" selection-end="19" vertical-scroll-proportion="0.06948229" vertical-offset="0" max-vertical-offset="734">
           <folding />
         </state>
       </provider>
