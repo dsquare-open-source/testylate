@@ -6,8 +6,8 @@ import flash.utils.describeType;
 import flash.utils.getQualifiedClassName;
 
 /**
- * Currently getting metadata for VARIABLE is not working --> should be implemented
- * dmoskovtsov
+ *dmoskovtsov Currently getting metadata for VARIABLE is not implemented
+ *
  *
  */
 public class MetadataUtil {

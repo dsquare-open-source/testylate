@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="Flex" version="4">
+  <component name="FlexBuildConfigurationManager" active="testylate">
+    <configurations>
+      <configuration name="testylate" pure-as="true" output-type="Library" output-file="testylate.swc" output-folder="$MODULE_DIR$/out/production/testylate">
+        <dependencies target-player="12.0">
+          <entries>
+            <entry library-id="88fe1b4f-e2e1-4b19-88e0-dd5eff78beb5">
+              <dependency linkage="Merged" />
+            </entry>
+            <entry library-id="56fe783c-c810-43be-8161-cd6f77d87633">
+              <dependency linkage="Merged" />
+            </entry>
+          </entries>
+          <sdk name="sdk" />
+        </dependencies>
+        <compiler-options />
+        <packaging-air-desktop />
+        <packaging-android />
+        <packaging-ios />
+      </configuration>
+    </configurations>
+    <compiler-options />
+  </component>
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$/testylate">
+      <sourceFolder url="file://$MODULE_DIR$/testylate/src" isTestSource="false" />
+    </content>
+    <orderEntry type="jdk" jdkName="sdk" jdkType="Flex SDK Type (new)" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module-library" exported="">
+      <library type="flex">
+        <properties id="88fe1b4f-e2e1-4b19-88e0-dd5eff78beb5" />
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/testylate/libs/flexunit-4.1.0-34-flex_3.5.0.12683.swc!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library type="flex">
+        <properties id="56fe783c-c810-43be-8161-cd6f77d87633" />
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/testylate/libs/hamcrest-as3-flex-1.2.1.swc!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+  </component>
+</module>
+
