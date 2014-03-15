@@ -2,9 +2,27 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3e449c57-9795-4e3d-a439-dcbe76a5ffbd" name="Default" comment="Setting up testing&#10;">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gitignore" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/compiler.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/encodings.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/flexCompiler.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/scopes/scope_settings.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/testylate-unit-test/testylate-unit-test.iml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/testylate.iml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/testylate/.idea/.name" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/testylate/.idea/compiler.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/testylate/.idea/encodings.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/testylate/.idea/flexCompiler.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/testylate/.idea/misc.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/testylate/.idea/modules.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/testylate/.idea/scopes/scope_settings.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/testylate/.idea/uiDesigner.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/testylate/.idea/vcs.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/testylate/.idea/workspace.xml" afterPath="" />
     </list>
     <ignored path="testylate.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -71,7 +89,7 @@
       <file leaf-file-name=".gitignore" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="3" column="22" selection-start="19" selection-end="19" vertical-scroll-proportion="0.06948229" vertical-offset="0" max-vertical-offset="734">
+            <state line="3" column="6" selection-start="19" selection-end="19" vertical-scroll-proportion="0.06948229" vertical-offset="0" max-vertical-offset="734">
               <folding />
             </state>
           </provider>
@@ -144,6 +162,16 @@
             <PATH_ELEMENT>
               <option name="myItemId" value="testylate" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="testylate" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="testylate-unit-test" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
@@ -460,17 +488,21 @@
       <updated>1394826245431</updated>
       <workItem from="1394826246784" duration="1455000" />
       <workItem from="1394875864832" duration="5466000" />
-      <workItem from="1394885952842" duration="1764000" />
+      <workItem from="1394885952842" duration="2040000" />
     </task>
     <task id="LOCAL-00001" summary="Initial commit. &#10;expectManagedEvent and expectManagedEvent functions.">
       <created>1394877615511</created>
       <updated>1394877615511</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Setting up testing&#10;">
+      <created>1394888827976</created>
+      <updated>1394888827976</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8685000" />
+    <option name="totallyTimeSpent" value="8961000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="4" y="22" width="1276" height="778" extended-state="0" />
@@ -543,7 +575,8 @@
       <TodoPanelSettings />
     </option>
     <MESSAGE value="Initial commit. &#10;expectManagedEvent and expectManagedEvent functions." />
-    <option name="LAST_COMMIT_MESSAGE" value="Initial commit. &#10;expectManagedEvent and expectManagedEvent functions." />
+    <MESSAGE value="Setting up testing&#10;" />
+    <option name="LAST_COMMIT_MESSAGE" value="Setting up testing&#10;" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -654,7 +687,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="3" column="22" selection-start="19" selection-end="19" vertical-scroll-proportion="0.06948229" vertical-offset="0" max-vertical-offset="734">
+        <state line="3" column="6" selection-start="19" selection-end="19" vertical-scroll-proportion="0.06948229" vertical-offset="0" max-vertical-offset="734">
           <folding />
         </state>
       </provider>
