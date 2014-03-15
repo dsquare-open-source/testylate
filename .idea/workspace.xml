@@ -1,16 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3e449c57-9795-4e3d-a439-dcbe76a5ffbd" name="Default" comment="Setting up testing&#10;">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/compiler.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/encodings.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/flexCompiler.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/scopes/scope_settings.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="" />
+    <list default="true" id="3e449c57-9795-4e3d-a439-dcbe76a5ffbd" name="Default" comment="Removing intellij files from git.&#10;">
       <change type="DELETED" beforePath="$PROJECT_DIR$/testylate-unit-test/testylate-unit-test.iml" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/testylate.iml" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/testylate/.idea/.name" afterPath="" />
@@ -23,6 +14,7 @@
       <change type="DELETED" beforePath="$PROJECT_DIR$/testylate/.idea/uiDesigner.xml" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/testylate/.idea/vcs.xml" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/testylate/.idea/workspace.xml" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="testylate.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -89,7 +81,7 @@
       <file leaf-file-name=".gitignore" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="3" column="6" selection-start="19" selection-end="19" vertical-scroll-proportion="0.06948229" vertical-offset="0" max-vertical-offset="734">
+            <state line="3" column="47" selection-start="19" selection-end="19" vertical-scroll-proportion="0.06948229" vertical-offset="0" max-vertical-offset="734">
               <folding />
             </state>
           </provider>
@@ -170,7 +162,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="testylate-unit-test" />
+              <option name="myItemId" value="testylate" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -488,7 +480,7 @@
       <updated>1394826245431</updated>
       <workItem from="1394826246784" duration="1455000" />
       <workItem from="1394875864832" duration="5466000" />
-      <workItem from="1394885952842" duration="2040000" />
+      <workItem from="1394885952842" duration="2127000" />
     </task>
     <task id="LOCAL-00001" summary="Initial commit. &#10;expectManagedEvent and expectManagedEvent functions.">
       <created>1394877615511</created>
@@ -498,11 +490,15 @@
       <created>1394888827976</created>
       <updated>1394888827976</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Removing intellij files from git.">
+      <created>1394889115155</created>
+      <updated>1394889115156</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8961000" />
+    <option name="totallyTimeSpent" value="9048000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="4" y="22" width="1276" height="778" extended-state="0" />
@@ -576,7 +572,8 @@
     </option>
     <MESSAGE value="Initial commit. &#10;expectManagedEvent and expectManagedEvent functions." />
     <MESSAGE value="Setting up testing&#10;" />
-    <option name="LAST_COMMIT_MESSAGE" value="Setting up testing&#10;" />
+    <MESSAGE value="Removing intellij files from git." />
+    <option name="LAST_COMMIT_MESSAGE" value="Removing intellij files from git." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -687,7 +684,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="3" column="6" selection-start="19" selection-end="19" vertical-scroll-proportion="0.06948229" vertical-offset="0" max-vertical-offset="734">
+        <state line="3" column="47" selection-start="19" selection-end="19" vertical-scroll-proportion="0.06948229" vertical-offset="0" max-vertical-offset="734">
           <folding />
         </state>
       </provider>
